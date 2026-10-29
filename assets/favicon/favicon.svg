@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Arham Khan">
+  <rect width="64" height="64" rx="14" fill="#08090b"/>
+  <rect x=".75" y=".75" width="62.5" height="62.5" rx="13.25" fill="none" stroke="#8b9bff" stroke-opacity=".35" stroke-width="1.5"/>
+  <path d="M14 49 L28 14 L42 49 M19.2 37.5 H36.8" fill="none" stroke="#f2f1ee" stroke-width="6.5" stroke-linejoin="miter" stroke-miterlimit="10"/>
+  <rect x="46" y="43" width="7" height="7" fill="#8b9bff"/>
+</svg>
